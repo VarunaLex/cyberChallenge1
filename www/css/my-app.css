@@ -1,0 +1,38 @@
+.image-background {
+  position: fixed;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+}
+
+.image-background img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  min-width: 50%;
+  min-height: 50%;
+  -webkit-filter: brightness(60%);
+}
+
+p.title {
+  position: relative;
+  color: white;
+  font-weight: 300;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 40px;
+  margin-top: 60px;
+}
+
+span.intro {
+  position: relative;
+  top: 5px;
+} 
+b
+{
+    font-weight: bold;
+}
